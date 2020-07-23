@@ -34,13 +34,13 @@ const option = {
                     logo: 'path_to_logo',
                     options: [
                         {
-                            value: 'Sub-Menu-Option-1',
+                            value: 'Sub-Menu-Option-1', (e.g. path to the URL to navigate to, will be handled via handleOnClick)
                             label: 'Sub-Menu-Option-1',
                             hidden: false,
                             logo: 'path_to_logo',
                         },
                         {
-                            value: 'Sub-Menu-Option-2',
+                            value: 'Sub-Menu-Option-2', (e.g. path to the URL to navigate to, will be handled via handleOnClick)
                             label: 'Sub-Menu-Option-2',
                             hidden: true,
                             logo: 'path_to_logo',
